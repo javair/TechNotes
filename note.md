@@ -9,4 +9,4 @@
 ---->
 [报名:](https://study.163.com/topics/deepLearning/)
 
-[]()
+[Android Studio视频](http://list.youku.com/albumlist/show?id=27101698&ascending=1&page=1)
