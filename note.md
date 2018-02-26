@@ -6,6 +6,7 @@
 
 
 [永久免费！吴恩达给你的人工智能第一课](https://zhuanlan.zhihu.com/p/28922729)
+---->
 [报名:](https://study.163.com/topics/deepLearning/)
 
 []()
